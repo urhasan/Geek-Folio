@@ -1,0 +1,26 @@
+*{padding: 0px;
+    margin: 0px;}
+    nav {
+        display: flex;
+        background: #312e2e;
+        align-items: center;
+        justify-content: space-around;
+        padding: 20px;
+        height: 25px;
+    }
+    nav img{
+        width: 100px;
+    }
+    nav ul {
+        text-decoration: none;
+
+
+    }
+    nav ul li {
+
+        list-style: none;
+        color: white;
+        display: flex;
+        display: inline-flex;
+        padding: 15px;
+    }
